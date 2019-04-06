@@ -25,5 +25,5 @@ Note: For these VBA macros, the file extension ".vb" is added to enable git to r
 ---
 
 ### Contact me
----
+
 Please feel free to submit suggestions and report bugs: <https://github.com/martinctc/Excel-VBA/issues>
