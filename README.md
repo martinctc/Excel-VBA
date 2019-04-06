@@ -21,3 +21,9 @@ Whilst you are here, do also check out my other repository on PowerPoint VBA.
 ## Note
 
 Note: For these VBA macros, the file extension ".vb" is added to enable git to recognise the script type. In practice, treat these as plain text files.
+
+---
+
+### Contact me
+---
+Please feel free to submit suggestions and report bugs: <https://github.com/martinctc/Excel-VBA/issues>
