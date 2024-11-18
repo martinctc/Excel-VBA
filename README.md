@@ -16,11 +16,7 @@ Whilst you are here, do also check out my other repository on PowerPoint VBA.
 2. Copy and paste the code in from the macro
 3. Run
 
----
-
-## Note
-
-Note: For these VBA macros, the file extension ".vb" is added to enable git to recognise the script type. In practice, treat these as plain text files.
+The exception to the above would be custom _functions_, which would be become available as an Excel function once added to the code editor. 
 
 ---
 
